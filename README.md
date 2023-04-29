@@ -3,7 +3,7 @@
 - The project consists of a quiz game that has 10 questions, each with three possible answers.
 - The game has a user-friendly interface that allows players to navigate through the questions easily.
 - Once the player answers a question, the app displays whether their answer is correct or incorrect.
-- The player can see their score at the endof the quiz.
+- The player can see their score at the end of the quiz.
 
 # Screenshots
 <img width="1392" alt="Screenshot 2023-04-03 at 12 33 47 AM" src="https://user-images.githubusercontent.com/64096661/229375396-66770319-7370-46f9-bd22-3a599fa3bc73.png">
